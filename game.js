@@ -5,6 +5,7 @@
 		
 		////CREATION DU CADRE////
 		
+		/*
 		var myTableCadre = document.createElement('table');
 		myTableCadre.id = 'tableau';
 		
@@ -36,7 +37,7 @@
 		myTableCadre.appendChild(myTr2);
 		
 		document.body.appendChild(myTableCadre);
-		
+		*/
 		
 		
 		while(game_on === 'o')
